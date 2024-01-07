@@ -3,7 +3,7 @@
 I'm a Brazilian student who love to solve problems!
 <br>
 ![Robert GitHub stats](https://github-readme-stats.vercel.app/api?username=robert-dvk&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robert-dvk&theme=dracula)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robert-dvk&theme=dracula)
 
 ## Currently using
 
